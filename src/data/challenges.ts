@@ -11,7 +11,6 @@ import amProject from "../assets/challenges/amStore/amProject.png";
 
 //Rockets
 import rockects from "../assets/challenges/rockets/rockets.png";
-import rocketsLogo from "../assets/challenges/rockets/rocketsLogo.png";
 export const challenges: IChallenge[] = [
   {
     imageSrc: kieroProject.src,
@@ -69,7 +68,7 @@ export const challenges: IChallenge[] = [
   },
   {
     imageSrc: rockects.src,
-    logoSrc: rocketsLogo.src,
+    logoSrc: "",
     id: 2,
     url: "",
     sourceCodeUrl:
