@@ -54,7 +54,7 @@ const AboutMe = () => {
             fontSize={{ base: "2xl", xl: "4xl" }}
             color={"secondary"}
           >
-            ABOUT ME
+            ABOUT MEE
           </Heading>
           <Box
             m={"22px 0px"}
